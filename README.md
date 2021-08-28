@@ -1,4 +1,4 @@
-# gdsc-python-bootcamp
+# gdsc-python-bootcamp 2021-2022
 Exercise and project Files of the GDSC Python Bootcamp. This Bootcamp is inspired by the book 
 ## Introducing Python: Modern Computing in Simple Packages, Second Edition By Bill Lubanovic
 
