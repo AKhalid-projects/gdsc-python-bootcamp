@@ -7,6 +7,23 @@ because it is a very fast, an efficient and most importantly, a very fun way to 
 
 ## How does it work?
 
+running the script
+```
+python pytomate.py
+```
+Entering the specified parameters
+```
+Enter folder Path: 
+D:\Projects\vs-projects\python\gdsc-python-bootcamp\python-book-exercises\chapter-12
+Enter the starting number: 
+1
+Enter the ending number: 
+11
+Enter the file prefix: 
+chapter-12
+```
+
+
 ## What are the limitations?
 * Does not support other file formats
 * Does not handle all exception cases yet
